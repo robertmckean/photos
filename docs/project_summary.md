@@ -1,0 +1,3 @@
+# photos
+
+Project summary placeholder.
